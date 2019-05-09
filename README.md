@@ -3,16 +3,16 @@ Here you can find some code to pass the AISO solver-tasks with Google's OR-Tools
 
 ## Getting started
 (In alphabetical order)
-* ["Binoxxo Generator"](HSLU_FS19_AISO_Exercises/Constraint_Programming/BinoxxoGenerator.ipynb)
-* ["Binoxxo Solver"](HSLU_FS19_AISO_Exercises/Constraint_Programming/BinoxxoSolver.ipynb)
-* ["Cryptogram Puzzle"](HSLU_FS19_AISO_Exercises/Constraint_Programming/CryptogramPuzzle.ipynb)
-* ["Grocery Store"](HSLU_FS19_AISO_Exercises/Constraint_Programming/GroceryStore.ipynb)
-* ["Magic Squares"](HSLU_FS19_AISO_Exercises/Constraint_Programming/MagicSquares.ipynb)
-* ["Minesweeper"](HSLU_FS19_AISO_Exercises/Constraint_Programming/Minesweeper.ipynb)
-* ["Sudoku Solver"](HSLU_FS19_AISO_Exercises/Constraint_Programming/SudokuSolver.ipynb)
-* ["Sum Frame Sudoku Solver"](HSLU_FS19_AISO_Exercises/Constraint_Programming/SumFrameSudokuSolver.ipynb)  
+* ["Binoxxo Generator"](Constraint_Programming/BinoxxoGenerator.ipynb)
+* ["Binoxxo Solver"](Constraint_Programming/BinoxxoSolver.ipynb)
+* ["Cryptogram Puzzle"](Constraint_Programming/CryptogramPuzzle.ipynb)
+* ["Grocery Store"](Constraint_Programming/GroceryStore.ipynb)
+* ["Magic Squares"](Constraint_Programming/MagicSquares.ipynb)
+* ["Minesweeper"](Constraint_Programming/Minesweeper.ipynb)
+* ["Sudoku Solver"](Constraint_Programming/SudokuSolver.ipynb)
+* ["Sum Frame Sudoku Solver"](Constraint_Programming/SumFrameSudokuSolver.ipynb)  
 
-![Preview](HSLU_FS19_AISO_Exercises/Constraint_Programming/images/Preview.png)  
+![Preview](Constraint_Programming/images/Preview.png)  
 
 ## Links
 _Last update:(2019.05.09)_
