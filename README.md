@@ -12,7 +12,7 @@ Here you can find some code to pass the AISO solver-tasks with Google's OR-Tools
 * ["Sudoku Solver"](HSLU_FS19_AISO_Exercises/Constraint_Programming/SudokuSolver.ipynb)
 * ["Sum Frame Sudoku Solver"](HSLU_FS19_AISO_Exercises/Constraint_Programming/SumFrameSudokuSolver.ipynb)  
 
-![Preview](HSLU_FS19_AISO_Exercises/Constraint_Programming/images/preview.png)  
+![Preview](HSLU_FS19_AISO_Exercises/Constraint_Programming/images/Preview.png)  
 
 ## Links
 _Last update:(2019.05.09)_
